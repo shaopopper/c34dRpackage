@@ -2,9 +2,9 @@
 % Please edit documentation in R/TCGA.R
 \name{mkdir}
 \alias{mkdir}
-\title{Title}
+\title{Title 当前路径创建文件夹“xx”}
 \usage{
-mkdir(xxx, filename2)
+mkdir(xxx)
 }
 \arguments{
 \item{filename2}{}
@@ -13,5 +13,5 @@ mkdir(xxx, filename2)
 
 }
 \description{
-Title
+Title 当前路径创建文件夹“xx”
 }

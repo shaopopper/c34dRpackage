@@ -2,7 +2,7 @@
 % Please edit documentation in R/TCGA.R
 \name{cd}
 \alias{cd}
-\title{Title}
+\title{Title 工作目录转到文件夹"xx"}
 \usage{
 cd(xxx)
 }
@@ -13,5 +13,5 @@ cd(xxx)
 
 }
 \description{
-Title
+Title 工作目录转到文件夹"xx"
 }

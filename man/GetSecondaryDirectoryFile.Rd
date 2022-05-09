@@ -7,11 +7,11 @@
 GetSecondaryDirectoryFile(xx)
 }
 \arguments{
-\item{随意填入数字}{}
+\item{xx}{随意填入数字}
 }
 \value{
 filename
 }
 \description{
-验证二级文件夹里面是否有文件，无返回NA值，为TRUE。最后返回二级文件夹文件
+验证二级文件夹里面是否有文件，无返回NA值，有为TRUE。最后返回二级文件夹里面的第一个文件绝对路径
 }

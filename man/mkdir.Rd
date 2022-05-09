@@ -2,16 +2,16 @@
 % Please edit documentation in R/TCGA.R
 \name{mkdir}
 \alias{mkdir}
-\title{Title 当前路径创建文件夹“xx”}
+\title{mkdir}
 \usage{
-mkdir(xxx)
+mkdir(xx)
 }
 \arguments{
-\item{输入要创建的文件夹名称}{}
+\item{xx}{为输入要创建的文件夹名称}
 }
 \value{
 
 }
 \description{
-Title 当前路径创建文件夹“xx”
+当前路径创建文件夹“xx”
 }

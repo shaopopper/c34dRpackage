@@ -2,16 +2,16 @@
 % Please edit documentation in R/TCGA.R
 \name{cd}
 \alias{cd}
-\title{Title 工作目录转到文件夹"xx"}
+\title{cd}
 \usage{
-cd(xxx)
+cd(xx)
 }
 \arguments{
-\item{输入要转到的文件夹名称}{}
+\item{xx}{输入要转到的文件夹名称}
 }
 \value{
 
 }
 \description{
-Title 工作目录转到文件夹"xx"
+工作目录转到文件夹"xx"
 }

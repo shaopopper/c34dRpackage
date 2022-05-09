@@ -2,7 +2,7 @@
 % Please edit documentation in R/TCGA.R
 \name{GetSecondaryDirectoryFile}
 \alias{GetSecondaryDirectoryFile}
-\title{Title 验证二级文件夹里面是否有文件，无返回NA值，为TRUE。最后返回二级文件夹文件}
+\title{GetSecondaryDirectoryFile}
 \usage{
 GetSecondaryDirectoryFile(xx)
 }
@@ -13,5 +13,5 @@ GetSecondaryDirectoryFile(xx)
 filename
 }
 \description{
-Title 验证二级文件夹里面是否有文件，无返回NA值，为TRUE。最后返回二级文件夹文件
+验证二级文件夹里面是否有文件，无返回NA值，为TRUE。最后返回二级文件夹文件
 }

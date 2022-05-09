@@ -1,6 +1,6 @@
-
-
-#' Title 验证二级文件夹里面是否有文件，无返回NA值，为TRUE。最后返回二级文件夹文件
+#' GetSecondaryDirectoryFile
+#'
+#' 验证二级文件夹里面是否有文件，无返回NA值，为TRUE。最后返回二级文件夹文件
 #'
 #' @param 随意填入数字
 #'

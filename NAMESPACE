@@ -2,4 +2,5 @@
 
 export(GetSecondaryDirectoryFile)
 export(cd)
+export(describe_by)
 export(mkdir)

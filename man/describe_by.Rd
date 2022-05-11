@@ -15,5 +15,5 @@ describe_by(y, na.omit = TRUE)
 
 }
 \description{
-统计描述describe_by，搭配aggregate使用
+统计描述describe_by，使用示例：by(iris\link{,c('Sepal.Length','Sepal.Width')},iris$Species,describe_by)
 }

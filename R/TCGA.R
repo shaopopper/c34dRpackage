@@ -65,7 +65,7 @@ cd <- function(xx){
 
 #' describe_by
 #'
-#' 统计描述describe_by，搭配aggregate使用
+#' 统计描述describe_by，使用示例：by(iris[,c('Sepal.Length','Sepal.Width')],iris$Species,describe_by)
 #'
 #' @param y 无意义
 #' @param na.omit 无意义

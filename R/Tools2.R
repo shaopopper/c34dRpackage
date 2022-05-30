@@ -11,9 +11,8 @@
 #' @export
 #'
 finddata=function(A1,A2){
-  eval(parse(text = paste0('data2=as.matrix(',A1,'==',A2,')')))
+  eval(parse(text = paste0('data2=as.matrix(',A1,'==',"'",A2,"'",')')))
   eval(parse(text = paste0('position=as.vector(which(data2==TRUE,arr.ind=TRUE))')))
   return(position)
 }
-
 
